@@ -1,9 +1,3 @@
-# React dApp (with standalone v2 client)
-
-Pitaka WalletConnect v2 Docs 
-- https://docs.pitaka.io
-- https://docs.walletconnect.com/2.0
-
 ## Overview
 
 This is an example implementation of a React dApp (generated via `create-react-app`) using the standalone
